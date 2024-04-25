@@ -1,0 +1,15 @@
+[Cypher1]
+EncryptionKey: AES
+Algorithm: AES
+
+[Cypher2]
+EncryptionKey: RSA
+Algorithm: RSA
+
+[Cypher3]
+EncryptionKey: SAF
+Algorithm: SAF
+
+[Cypher4]
+EncryptionKey: NUMZ
+Algorithm: NUMZ
